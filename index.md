@@ -9,3 +9,6 @@ Testing out different headers
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
